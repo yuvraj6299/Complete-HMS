@@ -45,7 +45,7 @@ This project was a collaborative effort:
 ## 🌐 **Live Links**  
 
 - **Frontend**: [Hospital Management Frontend](https://hospital-management-systems-yuvii.netlify.app)  
-- **Backend**: [Hospital Management Backend](https://deploy-hospital-project.onrender.com)  
+- **Backend**: [Hospital Management Backend](https://dashboard.render.com)  
 - **Dashboard**: [Hospital Management Dashboard](https://admin-dashboard-hms-yuvii.netlify.app)  
 
 ---
